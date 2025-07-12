@@ -1,0 +1,13 @@
+/home/gk/rust/cpp2rust/CMakeFiles/_cargo-build_cpp2rust.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cargo-build_cpp2rust.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cargo-prebuild_cpp2rust.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cargo-prebuild.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cargo-clean_cpp2rust.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cargo-clean.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cxxbridge_v1.0.160.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cxxbridge-cpp.dir
+/home/gk/rust/cpp2rust/CMakeFiles/cxxbridge-exe.dir
+/home/gk/rust/cpp2rust/CMakeFiles/edit_cache.dir
+/home/gk/rust/cpp2rust/CMakeFiles/rebuild_cache.dir
+/home/gk/rust/cpp2rust/_deps/corrosion-build/CMakeFiles/edit_cache.dir
+/home/gk/rust/cpp2rust/_deps/corrosion-build/CMakeFiles/rebuild_cache.dir

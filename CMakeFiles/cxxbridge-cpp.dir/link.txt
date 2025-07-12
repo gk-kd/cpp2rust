@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcxxbridge-cpp.a "CMakeFiles/cxxbridge-cpp.dir/corrosion_generated/cxxbridge/cxxbridge-cpp/src/lib.cpp.o"
+/usr/bin/ranlib libcxxbridge-cpp.a

@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+45333961019aa8dc2ff6f154d0d9cf68 CMakeFiles/_cargo-build_cpp2rust
+321ce968170c2eb0f33c8c491a88e2c9 CMakeFiles/cargo-clean_cpp2rust
+90e744649cf90c963eebe9c0135d6f5e CMakeFiles/cxxbridge_v1.0.160
+954282ca71148d2f5c26d391a4326eed corrosion/cxxbridge_v1.0.160/bin/cxxbridge
+60cfce189579a3bb11ba63706f2d2a83 corrosion_generated/cxxbridge/cxxbridge-cpp/include/cxxbridge-cpp/lib.h
+8d4faabf2841eb8df473b57006add8fa corrosion_generated/cxxbridge/cxxbridge-cpp/include/rust/cxx.h

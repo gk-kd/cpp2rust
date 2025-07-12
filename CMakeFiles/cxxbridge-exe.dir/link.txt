@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/cxxbridge-exe.dir/main.cpp.o" -o cxxbridge-exe  libcxxbridge-cpp.a libcpp2rust.a -lgcc_s -lutil -lrt -lpthread -lm -ldl -lc

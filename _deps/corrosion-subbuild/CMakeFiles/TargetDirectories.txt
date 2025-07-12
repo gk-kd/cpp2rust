@@ -1,0 +1,3 @@
+/home/gk/rust/cpp2rust/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate.dir
+/home/gk/rust/cpp2rust/_deps/corrosion-subbuild/CMakeFiles/edit_cache.dir
+/home/gk/rust/cpp2rust/_deps/corrosion-subbuild/CMakeFiles/rebuild_cache.dir
